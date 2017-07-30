@@ -25,7 +25,7 @@ Insert a **Battery** into a device to power it.
 
 ## Links
 
-Ludum Dare 39 entry page: https://ldjam.com/events/ludum-dare/39/$41162
+Ludum Dare 39 entry page: https://ldjam.com/events/ludum-dare/39/angry-tracks
 
 itch.io: https://oaty.itch.io/angry-tracks
 

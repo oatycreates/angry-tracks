@@ -8,9 +8,9 @@ The game was created for Ludum Dare 39 with the theme Running out of Power in Ju
 
 ## Install instructions
 
-**​Windows:** ​Download and extract the .ZIP file of the game. Open the Angry Tracks .exe file, select your preferred video options, and click Play.
+**Windows:** Download and extract the .ZIP file of the game. Open the Angry Tracks .exe file, select your preferred video options, and click Play.
 
-**​Web:**​ On Desktop platforms, click in the itch.io game window to play.
+**Web:** On Desktop platforms, click in the itch.io game window to play.
 
 ## How To Play
 

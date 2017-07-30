@@ -25,5 +25,7 @@ But remember, if you overheat the Engine, it’ll stall.
 ## Links
 
 Ludum Dare 39 entry page: https://ldjam.com/events/ludum-dare/39/$41162
-Itch.io: https://oaty.itch.io/angry-tracks
+
+itch.io: https://oaty.itch.io/angry-tracks
+
 Source: https://github.com/patferguson/angry-tracks

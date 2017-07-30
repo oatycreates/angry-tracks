@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 82725b8df024cdf429a59dceb77f3559
+timeCreated: 1501420699
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Marcellus SC
+  fontNames:
+  - Marcellus SC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,21 +6,22 @@ Angry Tracks is a resource management game where you must keep your train runnin
 
 The game was created for Ludum Dare 39 with the theme Running out of Power in July 2017 by [@DevRowan](https://twitter.com/DevRowan) and [@DevPatF](https://twitter.com/DevPatF).
 
+## Install instructions
+
+**​Windows:** ​Download and extract the .ZIP file of the game. Open the Angry Tracks .exe file, select your preferred video options, and click Play.
+
+**​Web:**​ On Desktop platforms, click in the itch.io game window to play.
+
 ## How To Play
 
-Keep the train moving! If your Speed Reaches Zero, it's Game Over!
+Keep the train moving! If your **Speed Reaches Zero**, it's **Game Over**!
 
-Use first-person controls - W.A.S.D and Mouse
+Use first-person controls - **W.A.S.D and Mouse**.
 
-The train has many devices like the Engine, Turrets, Shield and Coolant Tanks.
-Insert a Battery into a device to power it.
+The train has many devices like the **Engine**, **Turrets**, **Shield** and **Coolant Tanks**.
+Insert a **Battery** into a device to power it.
 
-Click+Drag to Carry a Battery
-
-You’ll need to make sure that the Engine gets powered often, or else the train will slow down.
-But remember, if you overheat the Engine, it’ll stall.
-
-(Hint: Use the Coolant Tanks to reduce Heat quickly!)
+**Click+Drag to Carry a Battery**
 
 ## Links
 

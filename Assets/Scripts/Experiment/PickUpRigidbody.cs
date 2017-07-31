@@ -62,7 +62,8 @@ public class PickUpRigidbody : MonoBehaviour
     Rigidbody outRigidbody = null;
     RaycastHit hitInfo = new RaycastHit();
 
-    if (Physics.Raycast(m_camera.ScreenPointToRay(Input.mousePosition), out hitInfo, catchingDistance))
+    // Check if the player is pointing at the pickup object with the crosshairs at the centre of the viewport
+    if (Physics.Raycast(m_camera.ViewportPointToRay(new Vector3(0.5f, 0.5f, 0.0f)), out hitInfo, catchingDistance))
     {
       GameObject hitObject = hitInfo.collider.gameObject;
       Rigidbody hitRigidbody = hitObject.GetComponent<Rigidbody>();
@@ -77,9 +78,10 @@ public class PickUpRigidbody : MonoBehaviour
 
   private Vector3 CalculateMouse3DVector()
   {
-    Vector3 v3 = Input.mousePosition;
+    // Determine the position required to keep the object at the crosshairs at the centre of the viewport
+    Vector3 v3 = new Vector3(0.5f, 0.5f, 0.0f);
     v3.z = catchingDistance;
-    v3 = m_camera.ScreenToWorldPoint(v3);
+    v3 = m_camera.ViewportToWorldPoint(v3);
 
     return v3;
   }

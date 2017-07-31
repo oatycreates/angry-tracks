@@ -1694,10 +1694,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 384914448}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 37237e4c8d22c0c4ba09e39f4581ee18, type: 3}
+  m_Script: {fileID: 11500000, guid: b15bf646eb97c8a4b8cbd7130f5d2aff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1270204228}
+  lerpRate: 15
 --- !u!1 &391526284
 GameObject:
   m_ObjectHideFlags: 0
